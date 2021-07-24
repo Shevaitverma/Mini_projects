@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(220, 224, 212);
+}
+
+div{
+    margin: 15vh;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(147, 171, 224);
+    border-radius: 10px;
+}
